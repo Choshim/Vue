@@ -1,5 +1,5 @@
 ﻿/*!
- * Vue.js v2.5.21
+ * Vue.js v2.5.21 
  * (c) 2014-2018 Evan You
  * Released under the MIT License.
  */
